@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Manish</h1>
+<h1 align="center">Hi There</h1>
 <h3 align="center">Web developer with a strong interest in projects that require both conceptual and analytical thinking. Fully-committed to develop innovative web applications that users will love. Always eager to learn more.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fireispower&label=Profile%20views&color=0e75b6&style=flat" alt="fireispower" /> </p>
