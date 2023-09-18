@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fireispower" alt="fireispower" /></a> </p>
 
-- 🔭 I’m currently working on [ShippingAdda](https://t.me/firespower)
+- 🔭 I’m currently working on [SCANNER](https://t.me/firespower)
 
 - 🌱 I’m currently learning **React Native ,Express js**
 
@@ -19,13 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/piyush paradkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush paradkar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/manishgolaitt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manish" height="30" width="40" /></a>
 <a href="https://codesandbox.com/fireispower" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="fireispower" height="30" width="40" /></a>
-<a href="https://instagram.com/piyushp_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyushp_007" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/piyushpp007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="piyushpp007" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/piyushpar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="piyushpar7" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/piyushpp007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piyushpp007" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/piyushpar7/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/piyushpar7/profile" height="30" width="40" /></a>
+<a href="https://instagram.com/turnonhumanity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="turnonhumanity" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
