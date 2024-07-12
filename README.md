@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fireispower" alt="fireispower" /></a> </p>
 
-- 🔭 I’m currently working on [SCANNER](https://t.me/fireispowerx)
+- 🔭 I’m currently working on [SCANNER](https://)
 
 - 🌱 I’m currently learning **React Native ,Express js**
 
-- 🤝 I’m looking for help with [BOTS](https://t.me/fireispowerx)
+- 🤝 I’m looking for help with [BOTS](https://t.me/)
 
 - 💬 Ask me about **React Js, React Native, Firebase , Javascript ,C++ ,Python ,Node Js**
 
-- 📫 How to reach me [Click Here](https://t.me/fireispowerx)
+- 📫 How to reach me [Click Here](https://t.me/f)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YpdHevj5jD2b7fdSsLpkU3DU3PucxnOY/view?usp=sharing](https://drive.google.com/file/d/1YpdHevj5jD2b7fdSsLpkU3DU3PucxnOY/view?usp=sharing)
 
